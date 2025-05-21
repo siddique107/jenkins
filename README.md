@@ -1,5 +1,4 @@
-# jenkins
-jenkins_exp
+
 docker 
 wsl --install
 docker -v
@@ -8,3 +7,7 @@ docker image ls
 docker container ls
 docker info
 docker inspect webserver
+
+# jenkins
+jenkins_exp
++refs/heads/main
